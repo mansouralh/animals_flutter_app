@@ -57,7 +57,7 @@ class MyApp extends StatelessWidget {
                 'Gender: $petgender',
                 style: TextStyle(
                   color: Colors.green,
-                  fontSize: 24,
+                  fontSize: 25,
                 ),
               ),
             ),
